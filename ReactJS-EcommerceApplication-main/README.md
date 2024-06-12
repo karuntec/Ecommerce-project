@@ -1,7 +1,7 @@
 In this project, let's build a **Nxt Trendz - Cart Features** by applying the concepts we have learned till now.
 
 ### Link to the page is given below:
-https://maniknxttrend.ccbp.tech/
+https://karunclone.ccbp.tech
 
 ### Refer to the image below:
 
